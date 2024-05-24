@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Nishad</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Developer**
 
 - 📝 I regularly write articles on [https://iamashishnishad.medium.com/](https://iamashishnishad.medium.com/)
 
